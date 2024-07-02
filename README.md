@@ -52,3 +52,13 @@ VisitorType: A string representing whether a visitor is New Visitor, Returning V
 Weekend: A boolean representing whether the session is on a weekend.
 
 Revenue: A boolean representing whether or not the user completed the purchase.
+
+
+**References:**
+1.Jain, Vipin, B. I. N. D. O. O. Malviya, and S. A. T. Y. E. N. D. R. A. Arya. "An overview of electronic commerce (e-Commerce)." Journal of Contemporary Issues in Business and Government 27, no. 3 (2021): 665-670.
+
+2.Rahayu, Rita, and John Day. "E-commerce adoption by SMEs in developing countries: evidence from Indonesia." Eurasian Business Review 7 (2017): 25-41.
+
+3.Schaupp, L. Christian, and France Bélanger. "A conjoint analysis of online consumer satisfaction1." Journal of electronic commerce research 6, no. 2 (2005): 95.
+
+4.Vijayasarathy, Leo R. "Predicting consumer intentions to use on-line shopping: the case for an augmented technology acceptance model." Information & management 41, no. 6 (2004): 747-762.
